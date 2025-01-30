@@ -1179,3 +1179,4 @@
 2025-03-21 15:02:25 add example file
 2025-12-03 18:17:44 remove legacy code
 2025-11-01 10:02:13 update docs with examples
+2025-01-30 09:15:54 better error handling
