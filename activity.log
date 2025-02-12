@@ -1251,3 +1251,4 @@
 2025-03-13 04:17:39 security patch
 2025-11-12 12:59:42 improve logging format
 2025-12-16 10:58:13 update API docs
+2025-02-12 14:08:13 fix build error
