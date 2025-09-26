@@ -705,3 +705,4 @@
 2025-12-22 07:30:09 improve logging format
 2025-11-05 19:37:05 rollback changes
 2025-01-01 22:47:29 fix bug
+2025-09-26 10:27:51 update schema migration
