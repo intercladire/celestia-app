@@ -861,3 +861,4 @@
 2025-07-06 09:15:47 adjust validation rules
 2025-08-11 20:47:39 fix UI alignment
 2025-04-23 23:35:53 fix config bug
+2025-10-04 19:03:36 better error handling
